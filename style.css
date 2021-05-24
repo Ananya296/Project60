@@ -106,6 +106,7 @@ h2 {
     padding-right: 9px;
     font-family: fantasy;
     font-size: 20px;
+    transition: transform .2s;
 
 }
 
@@ -114,6 +115,7 @@ h2 {
     transform: scale(1.5);
     color: aliceblue;
     text-decoration: underline;
+    transform: scale(1.5)
 }
 
 a {
