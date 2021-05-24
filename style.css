@@ -159,3 +159,15 @@ html {
     color: darkcyan;
     cursor: pointer;
 }
+
+img {
+    width: 475px;
+    height: 465px;
+    transition: transform .2s;
+    border: 10px solid white;
+}
+
+img:hover {
+    transform: scale(0.9)
+}
+
